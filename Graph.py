@@ -7,7 +7,6 @@ class Graph:
     """
     Graph objects can be used to work with undirected graphs.
     They are internally represented using adjacency matrices.
-    DO NOT MODIFY THIS CLASS EXCEPT TO ADD CODE FOR FINDING HAMILTONIAN CIRCUITS
     """
     DIRECTED = True
     UNDIRECTED = False
