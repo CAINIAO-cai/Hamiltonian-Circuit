@@ -6,7 +6,6 @@ class Walk:
   Note: this class does not verify the validity of the walk,
   i.e. it does not verify whether there are valid edges between two adjacent vertices in the walk.
   
-  DO NOT MODIFY THIS CLASS
   """
 
   NOVERTEX = -1 
